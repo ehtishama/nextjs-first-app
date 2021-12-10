@@ -1,0 +1,12 @@
+.coin_card {
+    min-width: 18em;
+    padding: 2em;
+    border-radius: 18px;
+    border: 1px solid #ffffff45;
+    box-shadow: .4em .4em  #fff;
+}
+
+.coin_image {
+    text-align: center;
+    margin-bottom: 2em;
+}

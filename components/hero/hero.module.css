@@ -1,0 +1,17 @@
+.hero_container {
+    text-align: center;
+    padding: 2em 0;
+}
+
+.hero_heading {
+    font-size: 3em;
+    padding: 0;
+    margin: 0;
+}
+
+.hero_text {
+    margin: 1em 0;
+    font-size: 1.3em;
+    line-height: 1.6em;
+    color: rgb(189, 189, 189);
+}

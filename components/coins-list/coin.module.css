@@ -1,0 +1,18 @@
+.coins_list {
+    margin: 0 auto 4em;
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    gap: .5rem;
+    border-bottom: 1px solid #ffffff40;
+    
+}
+.row:hover{
+    background: #00000090;
+}
+.row p {
+    min-width: 100px;
+}
